@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in selfhosting, programming and general IT topics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ansible and python
 - 📫 Reach me via amueller@doctorcrank.de
 
 <!---
